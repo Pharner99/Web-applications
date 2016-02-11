@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> homepage </title>
+</head>
+<body>
+	<header> Payton Harner </header>
+	<hr/>
+		<p> Welcome ladies and gentlemen, to my homepage. Here i will put information about me and what i do.<br/>
+			I will be putting my acomplishments and projects here also,<br/>
+			 I dont really have any right now but im sure to get somein the future.<br/>
+	 		 You are free to explore my page to get a feel of who i am. have a nice day!
+		</p>	
+		<h5> Educational goal </h5>
+			<p> The goals I have made for my education are to learn how to design and code websites.<br/>
+				Right now I don't have a specific plan to acheive this goal and I still <br/>
+				dont exactly know if it's what I want to do, but never the less it is something <br/>
+				to think on for next year. but other then that I will strive to get better grades <br/>
+				and really get my act together because I haven't been doing well in anything but <br/>
+				I think I have really improved a bit sense my last years. Those are my educational <br/> 
+				goals i have made for myself.
+			</p>
+		<h5> Employment goal </h5>
+			<p>My goals for being employed are as follows, I want a job that not only has a decent pay but <br/>
+				is something i can enjoy for the rest of my life, I feel that nothing else matters if you don't <br/>
+				enjoy what you do whether it be game programming to web design and if you dont have that then <br/>
+				you have an occupation that your going to go your whole life regreting and hate it.
+			</p>
+
+</body>
+</html>
